@@ -110,7 +110,7 @@ const Login = () => {
                 <path d="M12 14v7" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
-            <h2 className="text-2xl font-semibold text-slate-900 mb-2">Sign In</h2>
+            <h2 className="text-2xl font-semibold text-slate-900 mb-2">Sign In hiiii anu </h2>
             <p className="text-sm font-normal text-slate-500">Enter your credentials to access the portal.</p>
           </div>
 
